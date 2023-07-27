@@ -2,6 +2,11 @@
 This is a Rust Programming Repo containing various example files that can help in learning Rust from basics.
 
 Rust is a systems programming language that focuses on safety, performance, and concurrency.
+- Macro: 
+- Cargo: 
+- Crate: 
+- Dependencies: 
+- 
 
 ## Hello World
 ### Example 1
@@ -23,3 +28,5 @@ Comments in Rust are done using "**//**" for line comments and "**/* ... */**" f
 You can use the **'rand'** crate which provides utilities for random number generation. A crate is a compilation unit and a packaging mechanism which serves as a fundamental building block for organizing and sharing code in Rust Projects. Crates can be libraries or binary executables.
 
 You first add the **'rand'** crate as a dependency in your **'Cargo.toml'** file. In your Rust program, you first import the crate, then initialize the random number generator before then generating the random numbers.
+
+*Check random_number_generator folder*
