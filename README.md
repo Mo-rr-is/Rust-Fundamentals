@@ -7,3 +7,4 @@ As usual the first example is to print the Hello, World string using rust. This 
 That's how you make a simple hello world application using Rust Programming
 
 ## Example 2
+Next, we create a Hello, World application using a **Cargo**. Cargo is used to build applications and dependencies in Rust. In this case we use the command **cargo new hello-world-cargo --bin**. The bin at the end flags this as being an application and not a library. To run this cargo, simply go to the cargo directory and then use the command **cargo run**.
